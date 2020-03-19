@@ -1,0 +1,52 @@
+
+name: fews
+
+ 
+
+channels:
+
+  - conda-forge
+
+  - defaults
+
+ 
+
+dependencies:
+
+  - python=3.6
+
+  - numpy
+
+  - xarray
+
+  - numba
+
+  - pandas
+
+  - geopandas
+
+  - dask
+
+  - rasterio
+
+  - git
+
+  - git-lfs
+
+  - jupyterlab
+
+  - spyder
+
+  - jinja2
+
+  - cookiecutter
+
+  - matplotlib
+
+  - pytest
+
+  - cftime
+
+  - netcdf4
+
+  - black
