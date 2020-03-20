@@ -14,6 +14,8 @@ TRCA Module Adaptor for fews
 		1) precipitations data
 		2) control the reservoir operations (i.e. adjust the rule curve) 
 
+--> Need to include dependencie maybe? pip install swmmtoolbox
+
 
 Note
 ====
