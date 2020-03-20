@@ -11,6 +11,7 @@ environment.yml
 requirements.txt
 setup.cfg
 setup.py
+Example_Adaptor/adapter.py
 dist/trcafews-0.0.post0.dev1+gfc87456.dirty-py2.py3-none-any.whl
 dist/trcafews-0.0.post0.dev1+gfc87456.dirty-py3.6.egg
 dist/trcafews-0.1.0.post0.dev1+geaf01f0-py2.py3-none-any.whl
@@ -21,6 +22,7 @@ docs/conf.py
 docs/index.rst
 docs/license.rst
 src/trcafews/__init__.py
+src/trcafews/base.py
 src/trcafews/skeleton.py
 src/trcafews.egg-info/PKG-INFO
 src/trcafews.egg-info/SOURCES.txt
@@ -32,6 +34,7 @@ src/trcafews.egg-info/top_level.txt
 src/trcafews/__pycache__/__init__.cpython-36.pyc
 src/trcafews/__pycache__/skeleton.cpython-36.pyc
 tests/conftest.py
+tests/test_base.py
 tests/test_skeleton.py
 tests/__pycache__/conftest.cpython-36-pytest-5.4.1.pyc
 tests/__pycache__/test_skeleton.cpython-36-pytest-5.4.1.pyc
